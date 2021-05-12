@@ -1,5 +1,5 @@
 body {
-  font-family: "Montserrat";
+  font-family: "Open Sans";
   background-color: #8d6b68;
 }
 h1,
@@ -8,5 +8,8 @@ h3,
 .h1,
 .h2,
 .h3 {
-  text-decoration: dotted;
+  font-family: "Montserrat";
+}
+.list-group-item-action {
+  background-color: #baa3a1;
 }
